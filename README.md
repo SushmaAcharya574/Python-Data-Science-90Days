@@ -24,6 +24,3 @@ This repository documents my **daily progress, hands-on tasks, mini-projects, an
 - Jupyter Notebook
 
 ---
-
-## 🗂 Repository Structure
-
